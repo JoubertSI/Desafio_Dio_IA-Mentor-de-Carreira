@@ -1,8 +1,9 @@
 # 🚀 Roadmap de Carreira - Desenvolvedor Full Stack + IA
 
 Este repositório documenta meu plano de estudos e transição de carreira para **Desenvolvedor Full Stack**, com uma trilha paralela em **Inteligência Artificial**.  
-Disponibilidade: ~14h semanais (2h/dia)  
-Objetivo: Primeiro emprego em tecnologia com foco em desenvolvimento web e integração de IA.  
+
+- **Disponibilidade:** ~14h semanais (2h/dia)  
+- **Objetivo:** Primeiro emprego em tecnologia com foco em desenvolvimento web e integração de IA  
 
 ---
 
@@ -96,8 +97,8 @@ Aplicação web onde usuários possam se cadastrar, criar, editar e excluir tare
 
 ## 🎓 Trilha DIO Recomendada
 
-**Full Stack:** [Formação Fullstack Developer](https://dio.me)  
-**Inteligência Artificial:** [Formação Inteligência Artificial com Python](https://dio.me)  
+- **Full Stack:** [Formação Fullstack Developer](https://dio.me)  
+- **Inteligência Artificial:** [Formação Inteligência Artificial com Python](https://dio.me)  
 
 **Próximos Passos:**  
 1. Acesse [dio.me](https://dio.me)  
@@ -127,15 +128,6 @@ Aplicação web onde usuários possam se cadastrar, criar, editar e excluir tare
 
 ---
 
-## ✨ Conclusão
-
-Este roadmap combina **Full Stack Development** e **Inteligência Artificial**, criando um perfil diferenciado e competitivo para o mercado.  
-O mais importante é a **constância**, não a velocidade.  
-
-📌 Comece pela Semana 1 e avance no seu ritmo.  
-
----
-
 ## 📆 Cronograma Semanal Combinado (Full Stack + IA)
 
 | Dia        | Horário (2h/dia) | Foco Principal        | Atividades Sugeridas |
@@ -148,19 +140,11 @@ O mais importante é a **constância**, não a velocidade.
 | **Sábado**  | 2h              | IA - Machine Learning  | Scikit-learn, regressão, classificação, projetos simples |
 | **Domingo** | 2h              | Integração + Portfólio | Conectar IA ao Full Stack, deploy, documentação |
 
----
-
 ### 📌 Observações
 - **10h/semana** dedicadas ao **Full Stack** (base sólida para primeiro emprego).  
 - **4h/semana** dedicadas à **IA** (diferencial competitivo e integração em projetos).  
 - O domingo é estratégico para consolidar aprendizados e avançar no portfólio.  
 - Ajuste conforme seu ritmo: se sentir necessidade, pode trocar blocos entre Full Stack e IA.  
-
----
-
-## 🎯 Objetivo do Cronograma
-- Garantir constância e equilíbrio entre **habilidades essenciais** (Full Stack) e **habilidades emergentes** (IA).  
-- Construir um portfólio sólido com **projetos integrados** que mostrem domínio de desenvolvimento web e aplicação prática de inteligência artificial.  
 
 ---
 
@@ -183,12 +167,18 @@ Após concluir o roadmap inicial de 90 dias, seguem ideias de projetos para evol
 - **Dockerização de Projetos:** Criar containers para aplicações Full Stack e IA, facilitando deploy em nuvem.  
 - **Monitoramento com Grafana/Prometheus:** Dashboard para acompanhar métricas de performance da aplicação.  
 
----
-
 ### 🎯 Objetivo dos Projetos Futuros
 - Consolidar conhecimentos adquiridos.  
 - Demonstrar evolução contínua e aprendizado prático.  
 - Criar portfólio diversificado que mostra domínio em **Full Stack**, **IA** e **Infraestrutura**.  
 
-📌 Sugestão: escolha **1 projeto por trimestre** após os 90 dias, documente bem no GitHub e publique no LinkedIn para atrair recrutadores.
+📌 Sugestão: escolha **1 projeto por trimestre** após os 90 dias, documente bem no GitHub e publique no LinkedIn para atrair recrutadores.  
 
+---
+
+## ✨ Conclusão
+
+Este roadmap combina **Full Stack Development** e **Inteligência Artificial**, criando um perfil diferenciado e competitivo para o mercado.  
+O mais importante é a **constância**, não a velocidade.  
+
+📌 Comece pela Semana 1 e avance no seu ritmo.  
